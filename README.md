@@ -1,4 +1,4 @@
-# CS-539-Project-LSTM-Stock-Prediction
+# CS-539-Project-Stock-Prediction
 Includes: 
 - MLP
 - LSTM
