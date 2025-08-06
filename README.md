@@ -2,6 +2,6 @@
 Includes: 
 - MLP
 - LSTM
-- CLAM
-- Random Forest
+- CLAM (best path on github)
+- Random Forest (best path too large for github)
 - Forest-CLAM
