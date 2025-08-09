@@ -2,7 +2,7 @@
 Includes: 
 - MLP
 - LSTM
-- CLAM (best path on github)
+- CLAM (best path ForestCLAM_CLAM attached on github)
 - Random Forest (best path too large for github)
 - Forest-CLAM
    - The best CLAM check point is saved
