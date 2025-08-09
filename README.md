@@ -7,3 +7,4 @@ Includes:
 - Forest-CLAM
    - The best CLAM check point is saved
    - Decison tree yeilds consistent results and is too large to save, so it needs to be trained
+- Data used for CLAM and Forest models
